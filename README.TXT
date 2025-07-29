@@ -1,16 +1,35 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# PhotoEditor
 
-PROJECT TITLE: PhotoEditor
-PURPOSE OF PROJECT: A fun photo editor that can be used to edit all my photos with quality tools!b
-VERSION or DATE: 1.0
-HOW TO START THIS PROJECT: Run PictureTester.java
-AUTHORS: Adisesh Venkatesh Sanklapur
-USER INSTRUCTIONS:
-- Run PictureTester.java
-- Click "Select File"
-- Import an image (only pictures are allowed)
-- Use the tools to make your picture perfect!
+## Project Overview
+**PhotoEditor** is a fun and easy-to-use photo editing application designed to enhance your pictures using quality editing tools.
+
+---
+
+## Purpose
+To provide a simple interface where users can import and edit their photos with various built-in tools for customization and improvement.
+
+---
+
+## Version
+**1.0**
+
+---
+
+## How to Run
+1. Open the project in your preferred Java IDE.
+2. Run the file: `PictureTester.java`.
+
+---
+
+## Author
+**Adisesh Venkatesh Sanklapur**
+
+---
+
+## User Instructions
+- Run `PictureTester.java`.
+- Click **"Select File"** when prompted.
+- Choose an image file from your computer (only picture formats are allowed).
+- Use the provided editing tools to enhance your photo.
+
+---
